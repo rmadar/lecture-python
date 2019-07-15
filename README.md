@@ -4,7 +4,7 @@ This repository contains the material for lecture of a [data scientist universit
 
 ### Scope of the lecture
 
-This lecture has one goal: make people familiar with python and data analysis tools in order to make them able to extend their knowledge on *themself*. Partical exercises are also available for quick data manipulation.
+The main goal of this lecture is to make people familiar with python and data analysis tools in order to make them able to extend their knowledge on *themself*. Partical exercises are also available to provide few working example of quick data manipulation.
 
 **What this lecture is?** A *basic* and *practical* introduction to python together with some of the most important data analysis tools namely `numpy`, `matplotlib` and `pandas`.
 
