@@ -4,6 +4,8 @@ This repository contains the material for lecture of a [data scientist universit
 
 ### Scope of the lecture
 
-**What this lecture is?**
+**What this lecture is?** A *basic* and *operational* introduction to python together with some of the data analysis tools (numpy, matplotlib, pandas).
 
-**What this lecture isn't?**
+**What this lecture isn't?** Neither a formal introduction to python, nor a extensive demonstration of all available features available in the tools mentioned above.
+
+**Goal of the lecture**
