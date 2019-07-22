@@ -14,7 +14,7 @@ for nb in notebook_list:
 # Convert into markdown
 nb_to_be_concat = []
 for nb in notebook_list:
-    nb_name = nb.replace('../lecture/', '')
+    nb_name = nb.replace('../lectures/', '')
     md_name = nb_name.replace('.ipynb', '.md')    
     jpu.nb2md(nb_name)
 

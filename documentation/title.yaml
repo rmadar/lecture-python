@@ -17,7 +17,7 @@ sans-serif: true
 fontsize: "10pt"
 fancypage: true
 display_abstract: true
-
+toc-depth: 2
 
 #=========================================
 # Font selection for PDF creation via LaTeX
