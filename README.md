@@ -23,3 +23,12 @@ The main goal of this lecture is to make people familiar with python and data an
 **4. Multidimensional data manipulation.** Non-trivial operation for multidimensional data using the full power of numpy. Most of these operation can be performed with existing tools but it is intructive to do it once with native numpy.
 
 **5. Practical examples.** Fourier analysis, basic image processing, principal component analysis (PCA), Random Forest regression, Gaussian processes.
+
+
+## How to get prepared
+
+**1. Getting familiar with python.** I would recommand the [online tutorial of w3school](https://www.w3schools.com/python/), which is both basic and complete. It can be ran with a web browser only.
+
+**2. Install python with anaconda.** In order to run python on your own machine, you shoul install it. I would recommand [anaconda](https://www.anaconda.com/) for this. The installation includes jupyter-notebook.
+
+**3. Getting familiar with notebooks.** This represents a nice environement combining codes, notes and plots. This is very powerful to learn something and play with it. You can checkout [this video](https://www.youtube.com/watch?v=CwFq3YDU6_Y) or [this post](https://realpython.com/jupyter-notebook-introduction/).
