@@ -1,0 +1,71 @@
+---
+## METADATA
+title: "Introduction to Python for Data Analysis"
+subtitle: "How to manipulate and represent data with python"
+author: ["Romain Madar, DU Data scientist"]
+institute: "Laboratoire de Physique de Clermont-Ferrand (UCA, CNRS/IN2P3) -- FRANCE"
+contact: "romain.madar@clermont.in2p3.fr"
+date: \today
+
+## DOCUMENT SETTINGS
+documentclass: "book"
+geometry: "a4paper, top=3.2cm, bottom=3.2cm, left=2.7cm, right=2.7cm"
+linestretch: "1.2"
+fontfamily: "sourcesanspro"
+fontoption: "default"
+sans-serif: true
+fontsize: "10pt"
+fancypage: true
+display_abstract: true
+
+
+#=========================================
+# Font selection for PDF creation via LaTeX
+# =========================================
+#font="txfonts"
+#fontoption="varg"
+#addoption="-V "
+#fontsize="10"
+
+#font="sourcesanspro"
+#fontoption="default"
+#addoption="-V sans-serif"
+#fontsize="10"
+
+#font="cmbright"
+#fontoption=""
+#addoption="-V sans-serif"
+#fontsize="10"
+
+#font="gillius"
+#fontoption="default"
+#addoption="-V sans-serif"
+#fontsize="10"
+
+#font="lmodern"
+#fontoption=""
+#addoption=""
+#fontsize="10"
+
+#font="sourceserifpro"
+#fontoption="default"
+#addoption=""
+#fontsize="10"
+
+#font="merriweather"
+#fontoption="light"
+#addoption=""
+#fontsize="10"
+
+#font="CrimsonPro"
+#fontoption=""
+#addoption=""
+#fontsize="11"
+
+#font="ebgaramond"
+#fontoption=""
+#addoption=""
+#fontsize="10"
+
+...
+

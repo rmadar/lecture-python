@@ -1,0 +1,8 @@
+# Preamble {-}
+
+These notes contain the material for lecture of a [data scientist university degree](https://www.uca.fr/formation/nos-formations/catalogue-des-formations/du-data-scientist-23438.kjsp) proposed at Université Clermont-Auvergne (UCA), which is mostly based on a [NumPy tutorial](https://github.com/MLatCezeaux/intro_numpy) that I gave at the [Laboratoire de Physique de Clermont](http://clrwww.in2p3.fr/) in April 2019. No prerequisite knowledge is assumed but being familiar with one progamming language might be useful. It is better to know about some basic mathemtatics like simple vectorial operation or statistics. All the material of this lecture can be found in this [github repository](https://github.com/rmadar/lecture-python).
+
+
+Python offers a rapidly evolving ecosystem to perform data analysis and it is both out of scope and hopeless to be extensive in this lecture. The main goal is therefore to make people familiar with teh basic of python and data analysis tools in order to *make them able to extend their knowledge on themself*. Object oriented programming is not presented in this lecture. Pratical exercises are also available to provide few working examples as a starting point.
+
+**This lecture is only a support to help you doing things *yourself*. As any other language, you must practice it if you want to progress. If you don't write and test code on your own, this lecture is close to be useless.** I am available for any questions or general feedback on this lecture, so feel free to use my e-mail: [romain.madar@clermont.in2p3.fr](mailto:romain.madar@clermont.in2p3.fr]). 
