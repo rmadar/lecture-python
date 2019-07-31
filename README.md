@@ -9,7 +9,7 @@ The main goal of this lecture is to make people familiar with python and data an
 
 **What this lecture is?** A *basic* and *practical* introduction to python together with some of the most important data analysis tools namely `numpy`, `matplotlib` and `pandas`.
 
-**What this lecture isn't?** Neither a formal introduction to python, nor a extensive demonstration of all available features available in the tools mentioned above.
+**What this lecture isn't?** Neither a formal introduction to python, nor a extensive demonstration of all features available in the tools mentioned above.
 
 
 ## Content of the lecture
