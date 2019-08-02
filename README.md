@@ -5,7 +5,7 @@ This repository contains the material for lecture of a [data scientist universit
 
 ## General scope of the lecture
 
-The main goal of this lecture is to make people familiar with python and data analysis tools in order to make them able to extend their knowledge on *themself*. Pratical exercises are also available to provide few working examples of quick data manipulation. The full lecture material is available in PDF [here](https://github.com/rmadar/lecture-python/raw/master/documentation/PythonIntroductionDU.pdf).
+The main goal of this lecture is to make people familiar with python and data analysis tools in order to make them able to extend their knowledge on *themself*. Pratical exercises and small projects are also proposed to provide a few working examples of data manipulations with different level of complexity. The full lecture material is available in PDF [here](https://github.com/rmadar/lecture-python/raw/master/documentation/PythonIntroductionDU.pdf).
 
 **What this lecture is?** A *basic* and *practical* introduction to python together with some of the most important data analysis tools namely `numpy`, `matplotlib` and `pandas`.
 
@@ -22,7 +22,7 @@ The main goal of this lecture is to make people familiar with python and data an
 
 **4. Multidimensional data manipulation.** Non-trivial operation for multidimensional data using the full power of numpy. Most of these operation can be performed with existing tools but it is intructive to do it once with native numpy -- *[LINK](https://nbviewer.jupyter.org/github/rmadar/lecture-python/blob/master/lectures/4-HighDimensionnalData.ipynb)*
 
-**5. Practical examples.**
+**5. Practical examples.** 
    + Fourier analysis
    + Basic image processing
    + Principal component analysis (PCA)
