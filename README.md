@@ -5,7 +5,7 @@ This repository contains the material for lecture of a [data scientist universit
 
 ## General scope of the lecture
 
-The main goal of this lecture is to make people familiar with python and data analysis tools in order to make them able to extend their knowledge on *themself*. Pratical exercises are also available to provide few working example of quick data manipulation.
+The main goal of this lecture is to make people familiar with python and data analysis tools in order to make them able to extend their knowledge on *themself*. Pratical exercises are also available to provide few working examples of quick data manipulation. The full lecture material is available in PDF [here](documentation/PythonIntroductionDU.pdf).
 
 **What this lecture is?** A *basic* and *practical* introduction to python together with some of the most important data analysis tools namely `numpy`, `matplotlib` and `pandas`.
 
@@ -14,7 +14,7 @@ The main goal of this lecture is to make people familiar with python and data an
 
 ## Content of the lecture
 
-**[1. Python basics.** This first section is dedicated to basic object type and operation in python. Fonctions will also be described but object oriented programming will not be covered -- *[LINK](https://nbviewer.jupyter.org/github/rmadar/lecture-python/blob/master/lectures/1-PythonIntroduction.ipynb)*
+**1. Python basics.** This first section is dedicated to basic object type and operation in python. Fonctions will also be described but object oriented programming will not be covered -- *[LINK](https://nbviewer.jupyter.org/github/rmadar/lecture-python/blob/master/lectures/1-PythonIntroduction.ipynb)*
 
 **2. Introduction to numpy**. Differences between usual python objects and numpy objects will be introduced -- [LINK](https://nbviewer.jupyter.org/github/rmadar/lecture-python/blob/master/lectures/2-NumpyIntroduction.ipynb)
 
