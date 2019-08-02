@@ -6,7 +6,7 @@
 if [ $# -ne 2 ]; then
     echo ""
     echo "Script usage: "
-    echo "   ./makeBook.sh <\"title.md chap1.md chap2.md chap3.md\"> <book.pdf>"
+    echo "   ./makePDF.sh <\"title.md chap1.md chap2.md chap3.md\"> <book.pdf>"
     echo ""
     exit 1
 fi

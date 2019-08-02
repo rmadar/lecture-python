@@ -4,6 +4,8 @@ import jupy_pandoc_utils as jpu
 notebook_list = [
     '../lectures/1-PythonIntroduction.ipynb',
     '../lectures/2-NumpyIntroduction.ipynb',
+    '../lectures/3-ToolsToKnow.ipynb',
+    
 ]
 
 # Copy the notebooks
@@ -21,7 +23,7 @@ for nb in notebook_list:
     # Dealing with 'png' as figure caption
     new_md = open('tmp.md', 'w')
     for l in open(md_name, 'r'):
-        new_md.write(l.replace('![png]', '![]'))
+        new_md.write(l.replace('![png](', '![]('))
     os.system('mv tmp.md {}'.format(md_name))
 
     # To be saved for later
@@ -29,11 +31,13 @@ for nb in notebook_list:
 
 
 # Make the full pdf
-#print('\nExecute this command:')
-#print('./makePDF.sh "title.yaml Preamble.md ' + ' '.join(nb_to_be_concat) + ' Conclusion.md" NumpyIntroduction_MLatLPC.pdf')
+print('\nExecute this command:')
+print('./makePDF.sh "title.yaml Preamble.md ' + ' '.join(nb_to_be_concat) + '" PythonIntroductionDU.pdf')
 
-os.system('./makePDF.sh "title.yaml Preamble.md ' + ' '.join(nb_to_be_concat) + '" PythonIntroductionDU.pdf')
-# --> this doesn't produce the end of the PDF - I don't know why.
+# os.system('./makePDF.sh "title.yaml Preamble.md ' + ' '.join(nb_to_be_concat) + '" PythonIntroductionDU.pdf')
 
 # Clean
-os.system('rm -rf *.ipynb')
+# os.system('rm -rf *.ipynb')
+# os.system('rm -rf *_pdf.md')
+# os.system('rm -rf *_files')
+# os.system('rm -rf ' + ' '.join(nb_to_be_concat))
