@@ -14,13 +14,13 @@ The main goal of this lecture is to make people familiar with python and data an
 
 ## Content of the lecture
 
-**[1. Python basics.](lectures/1-PythonIntroduction.ipynb)** This first section is dedicated to basic object type and operation in python. Fonctions will also be described but object oriented programming will not be covered. The overall ecosystem to work with python will be also presented (anaconda, notebook) and also collaborative tools (google collab, mybinder, ...).
+**[1. Python basics.](https://nbviewer.jupyter.org/github/rmadar/lecture-python/blob/master/lectures/1-PythonIntroduction.ipynb)** This first section is dedicated to basic object type and operation in python. Fonctions will also be described but object oriented programming will not be covered. The overall ecosystem to work with python will be also presented (anaconda, notebook) and also collaborative tools (google collab, mybinder, ...).
 
-**[2. Introduction to numpy](lectures/2-NumpyIntroduction.ipynb)**. Differences between usual python objects and numpy objects will be introduced.
+**[2. Introduction to numpy](https://nbviewer.jupyter.org/github/rmadar/lecture-python/blob/master/lectures/2-NumpyIntroduction.ipynb)**. Differences between usual python objects and numpy objects will be introduced.
 
-**[3. Three tools to know.](lectures/3-ToolsToKnow.ipynb)** This section gives a glimpse of `matplotlib`, `pandas` and `scipy` packages allowing powerful data analysis.
+**[3. Three tools to know.](https://nbviewer.jupyter.org/github/rmadar/lecture-python/blob/master/lectures/3-ToolsToKnow.ipynb)** This section gives a glimpse of `matplotlib`, `pandas` and `scipy` packages allowing powerful data analysis.
 
-**4. Multidimensional data manipulation.** Non-trivial operation for multidimensional data using the full power of numpy. Most of these operation can be performed with existing tools but it is intructive to do it once with native numpy.
+**[4. Multidimensional data manipulation.](https://nbviewer.jupyter.org/github/rmadar/lecture-python/blob/master/lectures/4-HighDimensionnalData.ipynb)** Non-trivial operation for multidimensional data using the full power of numpy. Most of these operation can be performed with existing tools but it is intructive to do it once with native numpy.
 
 **5. Practical examples.** Fourier analysis, basic image processing, principal component analysis (PCA), Random Forest regression, Gaussian processes.
 
