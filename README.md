@@ -22,9 +22,11 @@ The main goal of this lecture is to make people familiar with python and data an
 
 **4. Multidimensional data manipulation.** Non-trivial operation for multidimensional data using the full power of numpy. Most of these operation can be performed with existing tools but it is intructive to do it once with native numpy -- *[online notebook](https://nbviewer.jupyter.org/github/rmadar/lecture-python/blob/master/lectures/4-HighDimensionalData.ipynb)*
 
-**5. Practical examples.** Depending on the remaining time (and the people taste), we can go through different topics among the following ones. Some of them can be also used as a project performed by students.
+
+
+
+**Other pPractical examples.** Depending on the remaining time (and the people taste), we can go through different topics among the following ones. Some of them can be also used as a project performed by students.
    + Fourier analysis
-   + Basic image processing
    + Principal component analysis (PCA)
    + Random Forest regression
    + Gaussian processes

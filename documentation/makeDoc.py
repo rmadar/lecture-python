@@ -6,6 +6,7 @@ notebook_list = [
     '../lectures/2-NumpyIntroduction.ipynb',
     '../lectures/3-ToolsToKnow.ipynb',
     '../lectures/4-HighDimensionalData.ipynb',
+    '../lectures/5-ImageProcessing.ipynb',
 ]
 
 # Copy the notebooks

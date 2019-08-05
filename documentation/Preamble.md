@@ -26,12 +26,9 @@ Python offers a rapidly evolving ecosystem to perform data analysis and it is bo
 
   4. **Multidimensional data manipulation.** Non-trivial operation for multidimensional data using the full power of numpy. Most of these operation can be performed with existing tools but it is intructive to do it once with native numpy -- *[online notebook](https://nbviewer.jupyter.org/github/rmadar/lecture-python/blob/master/lectures/4-HighDimensionalData.ipynb)*
 
-  5. **Practical examples.** Depending on the remaining time (and the people taste), we can go through different topics among the following ones. Some of them can be also used as a project performed by students.
-      + Fourier analysis
-      + Basic image processing
-      + Principal component analysis (PCA)
-      + Random Forest regression
-      + Gaussian processes
+  5. **Introduction to image processing.** Very first steps of image processing (definition, plotting, operation) including basic filters application (noising, sharpen, border detection) -- [*online notebook*](https://nbviewer.jupyter.org/github/rmadar/lecture-python/blob/master/lectures/5-ImageProcessing.ipynb)
+
+**Other practical examples.** Depending on the remaining time (and the people taste), we can go through different topics (fourier analysis, principal component analysis, random forest regression, gaussian processes). Some of them can be also organized as a project performed by students.
 
 
 ## How to get prepared {-}
