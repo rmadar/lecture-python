@@ -14,7 +14,9 @@ The main goal of this lecture is to make people familiar with python and data an
 
 ## Content of the lecture
 
-**1. Python basics.** This first section is dedicated to basic object type and operation in python. Fonctions will also be described but object oriented programming will not be covered -- *[online notebook](https://nbviewer.jupyter.org/github/rmadar/lecture-python/blob/master/lectures/1-PythonIntroduction.ipynb)*
+There are a lot of information in this lecture. In order to help you to focus on important aspect, each chapter start with a list of expected skills that you should take away, ranked with three levels: *basic*, *medium*, *expert*.
+
+**1. Practical Introduction to Python.** This first section is dedicated to basic object type and operation in python. Fonctions will also be described but object oriented programming will not be covered -- *[online notebook](https://nbviewer.jupyter.org/github/rmadar/lecture-python/blob/master/lectures/1-PythonIntroduction.ipynb)*
 
 **2. Introduction to numpy**. Differences between usual python objects and numpy objects will be introduced -- *[online notebook](https://nbviewer.jupyter.org/github/rmadar/lecture-python/blob/master/lectures/2-NumpyIntroduction.ipynb)*
 
