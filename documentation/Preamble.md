@@ -39,7 +39,7 @@ There are a lot of information in this lecture. In order to help you to focus on
    + Gaussian processes
 
 
-## How to get prepared
+## How to get prepared {-}
 
 **1. Get familiar with python.** I would recommand two links: [w3school tutorial](https://www.w3schools.com/python/) (both basic and complete) and [https://www.learnpython.org](https://www.learnpython.org) (code can be ran directly within your web browser).
 
