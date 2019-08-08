@@ -25,7 +25,7 @@ The main goal of this lecture is to make people familiar with python and data an
 **5. Introduction to image processing.** Very first steps of image processing (definition, plotting, operation) including basic filters application (noising, sharpen, border detection) -- [*online notebook*](https://nbviewer.jupyter.org/github/rmadar/lecture-python/blob/master/lectures/5-ImageProcessing.ipynb)
 
 
-**Other pPractical examples.** Depending on the remaining time (and the people taste), we can go through different topics among the following ones. Some of them can be also used as a project performed by students.
+**Other practical examples.** Depending on the remaining time (and the people taste), we can go through different topics among the following ones. Some of them can be also used as a project performed by students.
    + Fourier analysis
    + Principal component analysis (PCA)
    + Random Forest regression
@@ -34,8 +34,10 @@ The main goal of this lecture is to make people familiar with python and data an
 
 ## How to get prepared
 
-**1. Getting familiar with python.** I would recommand the [online tutorial of w3school](https://www.w3schools.com/python/), which is both basic and complete. It can be ran with a web browser only.
+**1. Get familiar with python.** I would recommand two links: [w3school tutorial](https://www.w3schools.com/python/) (both basic and complete) and [https://www.learnpython.org](https://www.learnpython.org) (code can be ran directly within your web browser).
 
-**2. Install python with anaconda.** In order to run python on your own machine, you shoul install it. I would recommand [anaconda](https://www.anaconda.com/) for this. The installation includes jupyter-notebook.
+**2. Install python with anaconda.** In order to run python on your own machine, you should install it. I would recommand [anaconda](https://www.anaconda.com/) for this, which also includes jupyter-notebook.
 
-**3. Getting familiar with notebooks.** This represents a nice environement combining codes, notes and plots. This is very powerful to learn something and play with it. You can checkout [this video](https://www.youtube.com/watch?v=CwFq3YDU6_Y) or [this post](https://realpython.com/jupyter-notebook-introduction/).
+**3. Install git.** This is a versioning software which can be installed following these [instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). This whole repository can be *cloned* using `git clone https://github.com/rmadar/lecture-python` command.
+
+**4. Get familiar with notebooks.** This represents a nice environement combining codes, notes and plots. This is very powerful to learn something and play with it. You can checkout [this video](https://www.youtube.com/watch?v=CwFq3YDU6_Y) or [this post](https://realpython.com/jupyter-notebook-introduction/).
