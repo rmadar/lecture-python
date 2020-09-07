@@ -18,15 +18,15 @@ There are a lot of information in this lecture. In order to help you to focus on
 
 **[0. Practical Introduction to Jupyter Notebooks.](https://nbviewer.jupyter.org/github/rmadar/lecture-python/blob/master/lectures/0-IntroductionNotebook.ipynb)** This section is not present in the final PDF but is presented during the lecture.
 
-**[1. Practical Introduction to Python.](https://nbviewer.jupyter.org/github/rmadar/lecture-python/blob/master/lectures/1-PythonIntroduction.ipynb).** This first section is dedicated to basic object type and operation in python. Fonctions will also be described but object oriented programming will not be covered.
+**[1. Practical Introduction to Python.](https://nbviewer.jupyter.org/github/rmadar/lecture-python/blob/master/lectures/1-PythonIntroduction.ipynb)** This first section is dedicated to basic object type and operation in python. Fonctions will also be described but object oriented programming will not be covered.
 
 **[2. Introduction to numpy.](https://nbviewer.jupyter.org/github/rmadar/lecture-python/blob/master/lectures/2-NumpyIntroduction.ipynb)** Differences between usual python objects and numpy objects will be introduced.
 
 **[3. Three tools to know.](https://nbviewer.jupyter.org/github/rmadar/lecture-python/blob/master/lectures/3-ToolsToKnow.ipynb)** This section gives a glimpse of `matplotlib`, `pandas` and `scipy` packages allowing powerful data analysis.
 
-**4. Multidimensional data manipulation.** Non-trivial operation for multidimensional data using the full power of numpy. Most of these operation can be performed with existing tools but it is intructive to do it once with native numpy -- *[online notebook](https://nbviewer.jupyter.org/github/rmadar/lecture-python/blob/master/lectures/4-HighDimensionalData.ipynb)*
+**[4. Multidimensional data manipulation.](https://nbviewer.jupyter.org/github/rmadar/lecture-python/blob/master/lectures/4-HighDimensionalData.ipynb)** Non-trivial operation for multidimensional data using the full power of numpy. Most of these operation can be performed with existing tools but it is intructive to do it once with native numpy.
 
-**5. Introduction to image processing.** Very first steps of image processing (definition, plotting, operation) including basic filters application (noising, sharpen, border detection) -- [*online notebook*](https://nbviewer.jupyter.org/github/rmadar/lecture-python/blob/master/lectures/5-ImageProcessing.ipynb)
+**[5. Introduction to image processing.](https://nbviewer.jupyter.org/github/rmadar/lecture-python/blob/master/lectures/5-ImageProcessing.ipynb)** Very first steps of image processing (definition, plotting, operation) including basic filters application (noising, sharpen, border detection).
 
 
 **Other practical examples.** Depending on the remaining time (and the people taste), we can go through different topics among the following ones. Some of them can be also used as a project performed by students.
