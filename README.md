@@ -7,14 +7,12 @@ This repository contains the material for lecture of a [data scientist universit
 
 The main goal of this lecture is to make people familiar with python and data analysis tools in order to make them able to extend their knowledge on *themself*. Pratical exercises and small projects are also proposed to provide a few working examples of data manipulations with different level of complexity.
 
-**The full lecture material is available in PDF [here](https://github.com/rmadar/lecture-python/raw/master/documentation/PythonIntroductionDU.pdf).**
-
 **What this lecture is?** A *basic* and *practical* introduction to python together with some of the most important data analysis tools namely `numpy`, `matplotlib` and `pandas`.
 
 **What this lecture isn't?** Neither a formal introduction to python, nor a extensive demonstration of all features available in the tools mentioned above.
 
 
-## Content of the lecture
+## Content of the lecture -- [full PDF](https://github.com/rmadar/lecture-python/raw/master/documentation/PythonIntroductionDU.pdf)
 
 There are a lot of information in this lecture. In order to help you to focus on important aspect, each chapter start with a list of expected skills that you should take away, ranked with three levels: *basic*, *medium*, *expert*.
 
