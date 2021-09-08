@@ -14,8 +14,8 @@ fi
 
 # PDF via latex
 pandoc -N -s ${PANDOC_TEMPLATES}/cross_references.yaml ${1} -o ${2}\
-       --template ${PANDOC_TEMPLATES}/document_template.tex \
-       --filter pandoc-crossref --filter pandoc-citeproc\
+       --template ${PANDOC_TEMPLATES}/document_template.tex\
+       --filter ${PANDOC_FILTERS}/pandoc-crossref --citeproc\
        --csl ${PANDOC_TEMPLATES}/biblio_style.csl\
        --highlight-style tango\
        --toc --toc-depth 2
@@ -23,7 +23,7 @@ pandoc -N -s ${PANDOC_TEMPLATES}/cross_references.yaml ${1} -o ${2}\
 # Make HTML
 pandoc -N -s ${PANDOC_TEMPLATES}/cross_references.yaml ${1} -o ${2}.html\
        --mathjax --css ${PANDOC_TEMPLATES}/webstyle_template.css\
-       --filter pandoc-crossref --filter pandoc-citeproc\
+       --filter ${PANDOC_FILTERS}/pandoc-crossref --citeproc\
        --csl ${PANDOC_TEMPLATES}/biblio_style.csl\
        --highlight-style tango\
        --toc --toc-depth 2

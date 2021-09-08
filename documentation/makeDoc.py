@@ -13,7 +13,6 @@ notebook_list = [
 for nb in notebook_list:
     os.system('cp {} .'.format(nb))
 
-
 # Convert into markdown
 nb_to_be_concat = []
 for nb in notebook_list:
