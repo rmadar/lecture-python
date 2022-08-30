@@ -15,10 +15,12 @@ fi
 # PDF via latex
 pandoc -N -s ${PANDOC_TEMPLATES}/cross_references.yaml ${1} -o ${2}\
        --template ${PANDOC_TEMPLATES}/document_template.tex\
-       --filter ${PANDOC_FILTERS}/pandoc-crossref --citeproc\
        --csl ${PANDOC_TEMPLATES}/biblio_style.csl\
        --highlight-style tango\
        --toc --toc-depth 2
+
+#        --filter ${PANDOC_FILTERS}/pandoc-crossref --citeproc\
+
 
 # Make HTML
 pandoc -N -s ${PANDOC_TEMPLATES}/cross_references.yaml ${1} -o ${2}.html\
