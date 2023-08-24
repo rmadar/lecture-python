@@ -38,10 +38,10 @@ There are a lot of information in this lecture. In order to help you to focus on
 
 ## List of previous exams with corrections
 
- + 2019 : Analysis of an electric pulse --> [exam](exam/2019/Examen.ipynb) / [correction](exam/2019/Examen-corrections.ipynb)
- + 2020 : Ising model (more details on this topic [here](https://github.com/rmadar/isingmodel2d))[exam] --> (exam/2020/Exam.ipynb) / [correction](exam/2020/ExamCorrection.ipynb)
- + 2021 : Coupled harmonic oscillators (more details on this topic [here](https://github.com/rmadar/vibrating-string)) --> [exam](exam/2021/exam.ipynb) / [correction](exam/2021/examCorrection.ipynb)
- + 2022 : Random walk --> [exam](exam/2022/exam.ipynb) / [correction](exam/2022/examCorrection.ipynb)
+ 1. 2019 : Analysis of an electric pulse --> [exam](exam/2019/Examen.ipynb) / [correction](exam/2019/Examen-corrections.ipynb)
+ 1. 2020 : Ising model (more details on this topic [here](https://github.com/rmadar/isingmodel2d)) --> [exam](exam/2020/Exam.ipynb) / [correction](exam/2020/ExamCorrection.ipynb)
+ 1. 2021 : Coupled harmonic oscillators (more details on this topic [here](https://github.com/rmadar/vibrating-string)) --> [exam](exam/2021/exam.ipynb) / [correction](exam/2021/examCorrection.ipynb)
+ 1. 2022 : Random walk --> [exam](exam/2022/exam.ipynb) / [correction](exam/2022/examCorrection.ipynb)
  
 
 ## How to get prepared
