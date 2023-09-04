@@ -1,6 +1,6 @@
 # Introduction to Python for Data Analysis
 
-This repository contains the material for a lecture of python proposed for the [master PFA](https://www.uca.fr/formation/nos-formations/par-ufr-ecoles-et-iut/institut-des-sciences/ecole-universitaire-de-physique-et-dingenierie/master/master-physique-fondamentale-et-applications-5), for the [Data scientist University Diploma (DU)](https://www.uca.fr/formation/nos-formations/catalogue-des-formations/du-data-scientist-23438.kjsp), and the master [iMAAP](https://imapp.eu/), hosted at Université Clermont-Auvergne (UCA). Basic python knowledge is not required but would be very valuable. However, it is better to know about some basic mathemtatics like simple vectorial operation or statistics.
+This repository contains the material for a lecture of python proposed for the [master PFA](https://www.uca.fr/formation/nos-formations/par-ufr-ecoles-et-iut/institut-des-sciences/ecole-universitaire-de-physique-et-dingenierie/master/master-physique-fondamentale-et-applications-5), for the [Data scientist University Diploma (DU)](https://www.uca.fr/formation/nos-formations/catalogue-des-formations/du-data-scientist), and the master [iMAAP](https://imapp.eu/), hosted at Université Clermont-Auvergne (UCA). Basic python knowledge is not required but would be very valuable. However, it is better to know about some basic mathemtatics like simple vectorial operation or statistics.
 
 
 ## General scope of the lecture
