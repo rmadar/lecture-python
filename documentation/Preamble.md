@@ -1,7 +1,10 @@
 # Preamble {-}
 
 
-These notes contain the material for lecture of a [data scientist university degree](https://www.uca.fr/formation/nos-formations/catalogue-des-formations/du-data-scientist-23438.kjsp) proposed at Université Clermont-Auvergne (UCA). No prerequisite knowledge is assumed but being familiar with one progamming language might be useful. It is better to know about some basic mathemtatics like simple vectorial operation or statistics. All the material of this lecture can be found in this [github repository](https://github.com/rmadar/lecture-python).
+These notes contain the material for a python lecture proposed for the [master PFA](https://www.uca.fr/formation/nos-formations/par-ufr-ecoles-et-iut/institut-des-sciences/ecole-universitaire-de-physique-et-dingenierie/master/master-physique-fondamentale-et-applications-5), for the [Data scientist University Diploma (DU)](https://www.uca.fr/formation/nos-formations/catalogue-des-formations/du-data-scientist), and the master [iMAAP](https://imapp.eu/), hosted at Université Clermont-Auvergne (UCA). Basic python knowledge is not required but would be very valuable. However, it is better to know about some basic mathemtatics like simple vectorial operation or statistics.
+
+
+[data scientist university degree](https://www.uca.fr/formation/nos-formations/catalogue-des-formations/du-data-scientist-23438.kjsp) proposed at Université Clermont-Auvergne (UCA). No prerequisite knowledge is assumed but being familiar with one progamming language might be useful. It is better to know about some basic mathemtatics like simple vectorial operation or statistics. All the material of this lecture can be found in this [github repository](https://github.com/rmadar/lecture-python).
 
 
 **This lecture is only a support to help you doing things *yourself*. As any other language, you must practice it if you want to progress. If you don't write and test code on your own, this lecture is close to be useless.** I am available for any questions or general feedback on this lecture, so feel free to contact me: [romain.madar@clermont.in2p3.fr](mailto:romain.madar@clermont.in2p3.fr]). 
