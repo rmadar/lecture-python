@@ -59,7 +59,7 @@ class spinLattice:
         '''
         plt.gca().xaxis.set_visible(False)
         plt.gca().yaxis.set_visible(False)
-        plt.imshow(self.spins.copy(), cmap='BuPu', origin='bottom', vmax=+1, vmin=-1)
+        plt.imshow(self.spins.copy(), cmap='BuPu', origin='lower', vmax=+1, vmin=-1)
 
 
     def energy(self):
@@ -317,7 +317,7 @@ class spinLattice:
         ax  = fig.gca()
         ax.xaxis.set_visible(False)
         ax.yaxis.set_visible(False)
-        img = ax.imshow(imgs[0],  cmap='BuPu', origin='bottom')
+        img = ax.imshow(imgs[0],  cmap='BuPu', origin='lower')
         anim = animation.FuncAnimation(fig, animate, init_func=init, frames=len(imgs),
                                        interval=interval, blit=True, save_count=len(imgs))
         plt.tight_layout()
