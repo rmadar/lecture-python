@@ -16,17 +16,17 @@ The main goal of this lecture is to make people familiar with Python and data an
 
 There is a lot of information in this lecture. To help you focus on important aspects, each chapter starts with a list of expected skills that you should take away, ranked with three levels: *basic*, *medium*, *expert*.
 
-**[0. Practical Introduction to Jupyter Notebooks.](https://nbviewer.jupyter.org/github/rmadar/lecture-python/blob/master/lectures/0-IntroductionNotebook.ipynb)** This section is not present in the final PDF but is presented during the lecture.
+**[0. Practical Introduction to Jupyter Notebooks.](lectures/0-IntroductionNotebook.ipynb)** This section is not present in the final PDF but is presented during the lecture.
 
-**[1. Practical Introduction to Python.](https://nbviewer.jupyter.org/github/rmadar/lecture-python/blob/master/lectures/1-PythonIntroduction.ipynb)** This first section is dedicated to basic object types and operations in Python. Functions will also be described, but object-oriented programming will not be covered.
+**[1. Practical Introduction to Python.](lectures/1-PythonIntroduction.ipynb)** This first section is dedicated to basic object types and operations in Python. Functions will also be described, but object-oriented programming will not be covered.
 
-**[2. Introduction to numpy.](https://nbviewer.jupyter.org/github/rmadar/lecture-python/blob/master/lectures/2-NumpyIntroduction.ipynb)** Differences between usual Python objects and numpy objects will be introduced.
+**[2. Introduction to numpy.](lectures/2-NumpyIntroduction.ipynb)** Differences between usual Python objects and numpy objects will be introduced.
 
-**[3. Three tools to know.](https://nbviewer.jupyter.org/github/rmadar/lecture-python/blob/master/lectures/3-ToolsToKnow.ipynb)** This section gives a glimpse of `matplotlib`, `pandas`, and `scipy` packages, allowing powerful data analysis.
+**[3. Three tools to know.](lectures/3-ToolsToKnow.ipynb)** This section gives a glimpse of `matplotlib`, `pandas`, and `scipy` packages, allowing powerful data analysis.
 
-**[4. Multidimensional data manipulation.](https://nbviewer.jupyter.org/github/rmadar/lecture-python/blob/master/lectures/4-HighDimensionalData.ipynb)** Non-trivial operations for multidimensional data using the full power of numpy. Most of these operations can be performed with existing tools, but it is instructive to do them once with native numpy.
+**[4. Multidimensional data manipulation.](lectures/4-HighDimensionalData.ipynb)** Non-trivial operations for multidimensional data using the full power of numpy. Most of these operations can be performed with existing tools, but it is instructive to do them once with native numpy.
 
-**[5. Introduction to image processing.](https://nbviewer.jupyter.org/github/rmadar/lecture-python/blob/master/lectures/5-ImageProcessing.ipynb)** Very first steps of image processing (definition, plotting, operation) including basic filter applications (noising, sharpening, border detection).
+**[5. Introduction to image processing.](lectures/5-ImageProcessing.ipynb)** Very first steps of image processing (definition, plotting, operation) including basic filter applications (noising, sharpening, border detection).
 
 **Other practical examples:** Depending on the remaining time (and people's preferences), we can go through different topics among the following ones. Some of them can also be used as projects performed by students.
    + Fourier analysis
