@@ -1,3 +1,9 @@
+
+# TEMPORARY : RETAKE EXAM
+
+The exam can be found [here](https://cernbox.cern.ch/s/hIalmP5Ssy2RspK)
+
+
 # Introduction to Python for Data Analysis
 
 This repository contains the material for a lecture on Python proposed for the [master PFA](https://www.uca.fr/formation/nos-formations/par-ufr-ecoles-et-iut/institut-des-sciences/ecole-universitaire-de-physique-et-dingenierie/master/master-physique-fondamentale-et-applications-5), the [Data Scientist University Diploma (DU)](https://www.uca.fr/formation/nos-formations/catalogue-des-formations/du-data-scientist), and the master [IMAPP](https://imapp.eu/) hosted at Université Clermont-Auvergne (UCA). Basic Python knowledge is not required but would be very valuable. However, it is better to have some basic mathematics knowledge like simple vector operations or statistics.
