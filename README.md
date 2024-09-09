@@ -41,7 +41,7 @@ There is a lot of information in this lecture. To help you focus on important as
  + 2020: Ising model (more details on this topic [here](https://github.com/rmadar/isingmodel2d)) ⟶ [exam](exam/2020/Exam.ipynb) / [correction](exam/2020/ExamCorrection.ipynb)
  + 2021: Coupled harmonic oscillators (more details on this topic [here](https://github.com/rmadar/vibrating-string)) ⟶ [exam](exam/2021/exam.ipynb) / [correction](exam/2021/examCorrection.ipynb)
  + 2022: Random walk ⟶ [exam](exam/2022/exam.ipynb) / [correction](exam/2022/examCorrection.ipynb)
- + 2023: Least action principle ⟶ [exam](exam/2023/examMASTER.ipynb) / [correction](exam/2023/examMASTERcorr.ipynb)
+ + 2023: Least action principle ⟶ [exam](exam/2023/ExamMASTER.ipynb) / [correction](exam/2023/ExamMASTERcorr.ipynb)
  
 ## How to Get Prepared
 
