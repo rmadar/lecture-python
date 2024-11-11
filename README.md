@@ -1,7 +1,7 @@
 
 # SPECIAL EXAM 2024
 
-The exam can be found in [exam/today](this directory)
+The exam can be found in [this directory](exam/today), good luck !
 
 # Introduction to Python for Data Analysis
 
