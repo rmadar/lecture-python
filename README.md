@@ -1,8 +1,3 @@
-
-# SPECIAL EXAM 2024
-
-The exam can be found in [this directory](exam/today), good luck !
-
 # Introduction to Python for Data Analysis
 
 This repository contains the material for a lecture on Python proposed for the [master PFA](https://www.uca.fr/formation/nos-formations/par-ufr-ecoles-et-iut/institut-des-sciences/ecole-universitaire-de-physique-et-dingenierie/master/master-physique-fondamentale-et-applications-5), the [Data Scientist University Diploma (DU)](https://www.uca.fr/formation/nos-formations/catalogue-des-formations/du-data-scientist), and the master [IMAPP](https://imapp.eu/) hosted at Université Clermont-Auvergne (UCA). Basic Python knowledge is not required but would be very valuable. However, it is better to have some basic mathematics knowledge like simple vector operations or statistics.
@@ -46,6 +41,7 @@ There is a lot of information in this lecture. To help you focus on important as
  + 2021: Coupled harmonic oscillators (more details on this topic [here](https://github.com/rmadar/vibrating-string)) ⟶ [exam](exam/2021/exam.ipynb) / [correction](exam/2021/examCorrection.ipynb)
  + 2022: Random walk ⟶ [exam](exam/2022/exam.ipynb) / [correction](exam/2022/examCorrection.ipynb)
  + 2023: Least action principle ⟶ [exam](exam/2023/ExamMASTER.ipynb) / [correction](exam/2023/ExamMASTERcorr.ipynb)
+ + 2024: Simulation of bees motion ⟶ [exam](exam/2024/Exam2024.ipynb) / [correction](exam/2024/Exam2024Corr.ipynb)
  
 ## How to Get Prepared
 
