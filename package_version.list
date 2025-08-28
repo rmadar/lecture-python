@@ -1,0 +1,19 @@
+
+jupyter                          1.1.1
+jupyter-lsp                      2.2.5
+jupyter_client                   8.6.3
+jupyter_console                  6.6.3
+jupyter_core                     5.7.2
+jupyter_events                   0.12.0
+jupyter_server                   2.15.0
+jupyter_server_terminals         0.5.3
+
+matplotlib                       3.10.0
+matplotlib-base                  3.10.0
+matplotlib-inline                0.1.7
+
+numpy                            1.26.4
+numpy-base                       1.26.4
+numpydoc                         1.9.0
+
+pandas                           2.1.4 
