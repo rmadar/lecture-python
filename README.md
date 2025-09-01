@@ -34,14 +34,14 @@ There is a lot of information in this lecture. To help you focus on important as
    + Random Forest regression
    + Gaussian processes
 
-## List of Previous Exams with Corrections
+## List of Previous Problems with Corrections
 
- + 2019: Analysis of an electric pulse ⟶ [exam](exam/2019/Examen.ipynb) / [correction](exam/2019/Examen-corrections.ipynb)
- + 2020: Ising model (more details on this topic [here](https://github.com/rmadar/isingmodel2d)) ⟶ [exam](exam/2020/Exam.ipynb) / [correction](exam/2020/ExamCorrection.ipynb)
- + 2021: Coupled harmonic oscillators (more details on this topic [here](https://github.com/rmadar/vibrating-string)) ⟶ [exam](exam/2021/exam.ipynb) / [correction](exam/2021/examCorrection.ipynb)
- + 2022: Random walk ⟶ [exam](exam/2022/exam.ipynb) / [correction](exam/2022/examCorrection.ipynb)
- + 2023: Least action principle ⟶ [exam](exam/2023/ExamMASTER.ipynb) / [correction](exam/2023/ExamMASTERcorr.ipynb)
- + 2024: Simulation of bees motion ⟶ [exam](exam/2024/Exam2024.ipynb) / [correction](exam/2024/Exam2024Corr.ipynb)
+ + 2019: Analysis of an electric pulse ⟶ [problem](exam/2019/Examen.ipynb) / [correction](exam/2019/Examen-corrections.ipynb)
+ + 2020: Ising model (more details on this topic [here](https://github.com/rmadar/isingmodel2d)) ⟶ [problem](exam/2020/Exam.ipynb) / [correction](exam/2020/ExamCorrection.ipynb)
+ + 2021: Coupled harmonic oscillators (more details on this topic [here](https://github.com/rmadar/vibrating-string)) ⟶ [problem](exam/2021/exam.ipynb) / [correction](exam/2021/examCorrection.ipynb)
+ + 2022: Random walk ⟶ [problem](exam/2022/exam.ipynb) / [correction](exam/2022/examCorrection.ipynb)
+ + 2023: Least action principle ⟶ [problem](exam/2023/ExamMASTER.ipynb) / [correction](exam/2023/ExamMASTERcorr.ipynb)
+ + 2024: Simulation of bees motion ⟶ [problem](exam/2024/Exam2024.ipynb) / [correction](exam/2024/Exam2024Corr.ipynb)
  
 ## How to Get Prepared
 
