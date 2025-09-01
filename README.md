@@ -51,4 +51,4 @@ There is a lot of information in this lecture. To help you focus on important as
 
 **3. Install Git.** This is a versioning software that can be installed following these [instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). This whole repository can be *cloned* using the `git clone https://github.com/rmadar/lecture-python` command.
 
-**4. Get familiar with notebooks.** This represents a nice environment combining code, notes, and plots. This is very powerful to learn something and play with it. You can check out [this video](https://www.youtube.com/watch?v=CwFq3YDU6_Y) or [this post](https://realpython.com/jupyter-notebook-introduction/).
+**4. Get familiar with notebooks.** This represents a nice environment combining code, notes, and plots. This is very powerful to learn something and play with it. You can check out [this video](https://www.youtube.com/watch?v=IMrxB8Mq5KU) or [this post](https://realpython.com/jupyter-notebook-introduction/).
