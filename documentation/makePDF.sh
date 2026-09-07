@@ -11,6 +11,8 @@ if [ $# -ne 2 ]; then
     exit 1
 fi
 
+# Replace remaining mu by $\mu$ to avoid latex issues
+sed -i 's/μ/$\\mu$/g' *.md
 
 # PDF via latex
 pandoc -N -s ${PANDOC_TEMPLATES}/cross_references.yaml ${1} -o ${2}\
