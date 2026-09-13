@@ -42,7 +42,7 @@ There is a lot of information in this lecture. To help you focus on important as
  + 2022: Random walk ⟶ [problem](problems/2022/exam.ipynb) / [correction](problems/2022/examCorrection.ipynb)
  + 2023: Least action principle ⟶ [problem](problems/2023/ExamMASTER.ipynb) / [correction](problems/2023/ExamMASTERcorr.ipynb)
  + 2024: Simulation of bees motion ⟶ [problem](problems/2024/Exam2024.ipynb) / [correction](problems/2024/Exam2024Corr.ipynb)
- + 2026: Cellular automata  ⟶ [problem](problems/2026/WolframCA.ipynb) / [correction](problems/2024/WolframCA_correction.ipynb)
+ + 2026: Cellular automata  ⟶ [problem](problems/2026/WolframCA.ipynb) / [correction](problems/2026/WolframCA_correction.ipynb)
  
 ## How to Get Prepared
 
